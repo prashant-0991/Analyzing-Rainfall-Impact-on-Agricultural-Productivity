@@ -1,3 +1,6 @@
+
+[Rainfall Variability and Agricultuarl Output Analysis.pdf](https://github.com/user-attachments/files/29158931/Rainfall.Variability.and.Agricultuarl.Output.Analysis.pdf)
+[Rainfall Variability and Agricultuarl Output Analysis.xlsx](https://github.com/user-attachments/files/29158929/Rainfall.Variability.and.Agricultuarl.Output.Analysis.xlsx)
 # Analyzing Rainfall Impact on Agricultural Productivity
 
 ## 📌 Project Overview
